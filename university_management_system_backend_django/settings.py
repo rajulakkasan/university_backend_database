@@ -75,8 +75,12 @@ WSGI_APPLICATION = 'university_management_system_backend_django.wsgi.application
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        # 'ENGINE': 'django.db.backends.mysql',
+        'ENGINE': 'mysql.connector.django',
+        'NAME': 'university',
+        'USER': 'root',
+        'PASSWORD': 'Target@2023',
+        'HOST': 'localhost'
     }
 }
 
