@@ -1,0 +1,1453 @@
+[
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "Faker",
+        "importPath": "faker",
+        "description": "faker",
+        "isExtraImport": true,
+        "detail": "faker",
+        "documentation": {}
+    },
+    {
+        "label": "Instructor",
+        "importPath": "readdb.models",
+        "description": "readdb.models",
+        "isExtraImport": true,
+        "detail": "readdb.models",
+        "documentation": {}
+    },
+    {
+        "label": "Publication",
+        "importPath": "readdb.models",
+        "description": "readdb.models",
+        "isExtraImport": true,
+        "detail": "readdb.models",
+        "documentation": {}
+    },
+    {
+        "label": "FundingSecured",
+        "importPath": "readdb.models",
+        "description": "readdb.models",
+        "isExtraImport": true,
+        "detail": "readdb.models",
+        "documentation": {}
+    },
+    {
+        "label": "Student",
+        "importPath": "readdb.models",
+        "description": "readdb.models",
+        "isExtraImport": true,
+        "detail": "readdb.models",
+        "documentation": {}
+    },
+    {
+        "label": "Instructor",
+        "importPath": "readdb.models",
+        "description": "readdb.models",
+        "isExtraImport": true,
+        "detail": "readdb.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "readdb.models",
+        "description": "readdb.models",
+        "isExtraImport": true,
+        "detail": "readdb.models",
+        "documentation": {}
+    },
+    {
+        "label": "Student",
+        "importPath": "readdb.models",
+        "description": "readdb.models",
+        "isExtraImport": true,
+        "detail": "readdb.models",
+        "documentation": {}
+    },
+    {
+        "label": "Instructor",
+        "importPath": "readdb.models",
+        "description": "readdb.models",
+        "isExtraImport": true,
+        "detail": "readdb.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "readdb.models",
+        "description": "readdb.models",
+        "isExtraImport": true,
+        "detail": "readdb.models",
+        "documentation": {}
+    },
+    {
+        "label": "Department",
+        "importPath": "readdb.models",
+        "description": "readdb.models",
+        "isExtraImport": true,
+        "detail": "readdb.models",
+        "documentation": {}
+    },
+    {
+        "label": "Course",
+        "importPath": "readdb.models",
+        "description": "readdb.models",
+        "isExtraImport": true,
+        "detail": "readdb.models",
+        "documentation": {}
+    },
+    {
+        "label": "Instructor",
+        "importPath": "readdb.models",
+        "description": "readdb.models",
+        "isExtraImport": true,
+        "detail": "readdb.models",
+        "documentation": {}
+    },
+    {
+        "label": "Student",
+        "importPath": "readdb.models",
+        "description": "readdb.models",
+        "isExtraImport": true,
+        "detail": "readdb.models",
+        "documentation": {}
+    },
+    {
+        "label": "Prerequisite",
+        "importPath": "readdb.models",
+        "description": "readdb.models",
+        "isExtraImport": true,
+        "detail": "readdb.models",
+        "documentation": {}
+    },
+    {
+        "label": "Section",
+        "importPath": "readdb.models",
+        "description": "readdb.models",
+        "isExtraImport": true,
+        "detail": "readdb.models",
+        "documentation": {}
+    },
+    {
+        "label": "Takes",
+        "importPath": "readdb.models",
+        "description": "readdb.models",
+        "isExtraImport": true,
+        "detail": "readdb.models",
+        "documentation": {}
+    },
+    {
+        "label": "Teaches",
+        "importPath": "readdb.models",
+        "description": "readdb.models",
+        "isExtraImport": true,
+        "detail": "readdb.models",
+        "documentation": {}
+    },
+    {
+        "label": "FundingSecured",
+        "importPath": "readdb.models",
+        "description": "readdb.models",
+        "isExtraImport": true,
+        "detail": "readdb.models",
+        "documentation": {}
+    },
+    {
+        "label": "Publication",
+        "importPath": "readdb.models",
+        "description": "readdb.models",
+        "isExtraImport": true,
+        "detail": "readdb.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "readdb.models",
+        "description": "readdb.models",
+        "isExtraImport": true,
+        "detail": "readdb.models",
+        "documentation": {}
+    },
+    {
+        "label": "Student",
+        "importPath": "readdb.models",
+        "description": "readdb.models",
+        "isExtraImport": true,
+        "detail": "readdb.models",
+        "documentation": {}
+    },
+    {
+        "label": "Instructor",
+        "importPath": "readdb.models",
+        "description": "readdb.models",
+        "isExtraImport": true,
+        "detail": "readdb.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "readdb.models",
+        "description": "readdb.models",
+        "isExtraImport": true,
+        "detail": "readdb.models",
+        "documentation": {}
+    },
+    {
+        "label": "BaseCommand",
+        "importPath": "django.core.management.base",
+        "description": "django.core.management.base",
+        "isExtraImport": true,
+        "detail": "django.core.management.base",
+        "documentation": {}
+    },
+    {
+        "label": "BaseCommand",
+        "importPath": "django.core.management.base",
+        "description": "django.core.management.base",
+        "isExtraImport": true,
+        "detail": "django.core.management.base",
+        "documentation": {}
+    },
+    {
+        "label": "BaseCommand",
+        "importPath": "django.core.management.base",
+        "description": "django.core.management.base",
+        "isExtraImport": true,
+        "detail": "django.core.management.base",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractUser",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.validators",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.validators",
+        "description": "django.contrib.auth.validators",
+        "detail": "django.contrib.auth.validators",
+        "documentation": {}
+    },
+    {
+        "label": "django.utils.timezone",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.utils.timezone",
+        "description": "django.utils.timezone",
+        "detail": "django.utils.timezone",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "BaseBackend",
+        "importPath": "django.contrib.auth.backends",
+        "description": "django.contrib.auth.backends",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.backends",
+        "documentation": {}
+    },
+    {
+        "label": "user_passes_test",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "wraps",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "wraps",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "AuthenticationForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreationForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "home_view",
+        "importPath": "readdb.views",
+        "description": "readdb.views",
+        "isExtraImport": true,
+        "detail": "readdb.views",
+        "documentation": {}
+    },
+    {
+        "label": "logout_view",
+        "importPath": "readdb.views",
+        "description": "readdb.views",
+        "isExtraImport": true,
+        "detail": "readdb.views",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "JsonResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "Min",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Max",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Avg",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Sum",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Count",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "make_password",
+        "importPath": "django.contrib.auth.hashers",
+        "description": "django.contrib.auth.hashers",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.hashers",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "auth.models",
+        "description": "auth.models",
+        "isExtraImport": true,
+        "detail": "auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "views",
+        "importPath": "readdb",
+        "description": "readdb",
+        "isExtraImport": true,
+        "detail": "readdb",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "kind": 6,
+        "importPath": "readdb.management.commands.generate_dummy_data_publications_fundings",
+        "description": "readdb.management.commands.generate_dummy_data_publications_fundings",
+        "peekOfCode": "class Command(BaseCommand):\n    help = 'Populate user data into publications and fundingsecured models'\n    def handle(self, *args, **kwargs):\n        self.generate_publications_and_funding()\n    def generate_publications_and_funding(self):\n        try:\n            instructors = Instructor.objects.all()\n            semesters = [1, 2]\n            for instructor in instructors:\n                # Generate random number of publications",
+        "detail": "readdb.management.commands.generate_dummy_data_publications_fundings",
+        "documentation": {}
+    },
+    {
+        "label": "fake",
+        "kind": 5,
+        "importPath": "readdb.management.commands.generate_dummy_data_publications_fundings",
+        "description": "readdb.management.commands.generate_dummy_data_publications_fundings",
+        "peekOfCode": "fake = Faker()\nfrom django.core.management.base import BaseCommand\nfrom readdb.models import Student, Instructor, User\nclass Command(BaseCommand):\n    help = 'Populate user data into publications and fundingsecured models'\n    def handle(self, *args, **kwargs):\n        self.generate_publications_and_funding()\n    def generate_publications_and_funding(self):\n        try:\n            instructors = Instructor.objects.all()",
+        "detail": "readdb.management.commands.generate_dummy_data_publications_fundings",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "kind": 6,
+        "importPath": "readdb.management.commands.insert_data_db",
+        "description": "readdb.management.commands.insert_data_db",
+        "peekOfCode": "class Command(BaseCommand):\n    help = 'Load data from input_data.sql into the database'\n    def handle(self, *args, **options):\n        file_path = '/Users/yanamalakondareddy/Clarkson/DBS/Projects/university_database_backend/data/input_data.sql'  # Path to your input_data.sql file\n        with open(file_path, 'r') as f:\n            sql_commands = f.read()\n            # Split SQL commands by semicolon\n            sql_commands = sql_commands.split(';')\n            # Create a regex pattern to match table names\n            table_pattern = re.compile(r'INSERT INTO `([^`]+)`')",
+        "detail": "readdb.management.commands.insert_data_db",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "kind": 6,
+        "importPath": "readdb.management.commands.populate_users",
+        "description": "readdb.management.commands.populate_users",
+        "peekOfCode": "class Command(BaseCommand):\n    help = 'Populate user data from student and instructor models'\n    def handle(self, *args, **kwargs):\n        self.create_student_users()\n        self.create_instructor_users()\n        self.create_admin_user()\n    def create_student_users(self):\n        try:\n            students = Student.objects.all()\n            for student in students:",
+        "detail": "readdb.management.commands.populate_users",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "readdb.migrations.0001_initial",
+        "description": "readdb.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Course',\n            fields=[\n                ('course_id', models.CharField(max_length=8, primary_key=True, serialize=False)),\n                ('title', models.CharField(max_length=64, null=True)),",
+        "detail": "readdb.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "readdb.migrations.0002_prerequisite_rename_dept_name_course_department_and_more",
+        "description": "readdb.migrations.0002_prerequisite_rename_dept_name_course_department_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('readdb', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Prerequisite',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n            ],",
+        "detail": "readdb.migrations.0002_prerequisite_rename_dept_name_course_department_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "readdb.migrations.0003_rename_section_id_section_section_name_and_more",
+        "description": "readdb.migrations.0003_rename_section_id_section_section_name_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('readdb', '0002_prerequisite_rename_dept_name_course_department_and_more'),\n    ]\n    operations = [\n        migrations.RenameField(\n            model_name='section',\n            old_name='section_id',\n            new_name='section_name',\n        ),",
+        "detail": "readdb.migrations.0003_rename_section_id_section_section_name_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "readdb.migrations.0004_alter_takes_unique_together_takes_course_and_more",
+        "description": "readdb.migrations.0004_alter_takes_unique_together_takes_course_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('readdb', '0003_rename_section_id_section_section_name_and_more'),\n    ]\n    operations = [\n        migrations.AlterUniqueTogether(\n            name='takes',\n            unique_together=set(),\n        ),\n        migrations.AddField(",
+        "detail": "readdb.migrations.0004_alter_takes_unique_together_takes_course_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "readdb.migrations.0005_alter_teaches_unique_together_teaches_course_and_more",
+        "description": "readdb.migrations.0005_alter_teaches_unique_together_teaches_course_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('readdb', '0004_alter_takes_unique_together_takes_course_and_more'),\n    ]\n    operations = [\n        migrations.AlterUniqueTogether(\n            name='teaches',\n            unique_together=set(),\n        ),\n        migrations.AddField(",
+        "detail": "readdb.migrations.0005_alter_teaches_unique_together_teaches_course_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "readdb.migrations.0006_auto_20240424_1729",
+        "description": "readdb.migrations.0006_auto_20240424_1729",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('readdb', '0005_alter_teaches_unique_together_teaches_course_and_more'),\n    ]\n    operations = [\n    ]",
+        "detail": "readdb.migrations.0006_auto_20240424_1729",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "readdb.migrations.0007_user",
+        "description": "readdb.migrations.0007_user",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('auth', '0012_alter_user_first_name_max_length'),\n        ('readdb', '0006_auto_20240424_1729'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='User',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "readdb.migrations.0007_user",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "readdb.migrations.0008_alter_user_user_type",
+        "description": "readdb.migrations.0008_alter_user_user_type",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('readdb', '0007_user'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='user',\n            name='user_type',\n            field=models.CharField(choices=[('admin', 'Admin'), ('professor', 'Professor'), ('student', 'Student')], default='student', max_length=32),\n        ),",
+        "detail": "readdb.migrations.0008_alter_user_user_type",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "readdb.migrations.0009_alter_user_user_type",
+        "description": "readdb.migrations.0009_alter_user_user_type",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('readdb', '0008_alter_user_user_type'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='user',\n            name='user_type',\n            field=models.CharField(choices=[('admin', 'Admin'), ('professor', 'Professor'), ('student', 'Student')], default='student', max_length=25),\n        ),",
+        "detail": "readdb.migrations.0009_alter_user_user_type",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "readdb.migrations.0010_publication_fundingsecured",
+        "description": "readdb.migrations.0010_publication_fundingsecured",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('readdb', '0009_alter_user_user_type'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Publication',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('title', models.CharField(max_length=255)),",
+        "detail": "readdb.migrations.0010_publication_fundingsecured",
+        "documentation": {}
+    },
+    {
+        "label": "ReaddbConfig",
+        "kind": 6,
+        "importPath": "readdb.apps",
+        "description": "readdb.apps",
+        "peekOfCode": "class ReaddbConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'readdb'",
+        "detail": "readdb.apps",
+        "documentation": {}
+    },
+    {
+        "label": "CustomAuthBackend",
+        "kind": 6,
+        "importPath": "readdb.authentication_backends",
+        "description": "readdb.authentication_backends",
+        "peekOfCode": "class CustomAuthBackend(BaseBackend):\n    def authenticate(self, request, username=None, password=None):\n        try:\n            user = User.objects.get(username= username)\n            if user.check_password(password):\n                return user\n        except User.DoesNotExist:\n            return None",
+        "detail": "readdb.authentication_backends",
+        "documentation": {}
+    },
+    {
+        "label": "prevent_logged_in_users",
+        "kind": 2,
+        "importPath": "readdb.decorators",
+        "description": "readdb.decorators",
+        "peekOfCode": "def prevent_logged_in_users(view_func):\n    def _wrapped_view(request, *args, **kwargs):\n        if request.user.is_authenticated:\n            # If user is logged in, redirect to some other page like home\n            return redirect('home')\n        else:\n            # If user is not logged in, proceed with the view function\n            return view_func(request, *args, **kwargs)\n    return _wrapped_view\nfrom functools import wraps",
+        "detail": "readdb.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "admin_required",
+        "kind": 2,
+        "importPath": "readdb.decorators",
+        "description": "readdb.decorators",
+        "peekOfCode": "def admin_required(view_func):\n    @wraps(view_func)\n    def _wrapped_view(request, *args, **kwargs):\n        # Check if the user is authenticated\n        if request.user.is_authenticated:\n            # Check if the user has the required user type\n            if hasattr(request.user, 'user_type') and request.user.user_type == 'admin':\n                # Proceed with the view function if the conditions are met\n                return view_func(request, *args, **kwargs)\n            else:",
+        "detail": "readdb.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "professor_required",
+        "kind": 2,
+        "importPath": "readdb.decorators",
+        "description": "readdb.decorators",
+        "peekOfCode": "def professor_required(view_func):\n    @wraps(view_func)\n    def _wrapped_view(request, *args, **kwargs):\n        # Check if the user is authenticated\n        print(request.user)\n        if request.user.is_authenticated:\n            # Check if the user has the required user type\n            if hasattr(request.user, 'user_type') and request.user.user_type == 'professor':\n                # Proceed with the view function if the conditions are met\n                return view_func(request, *args, **kwargs)",
+        "detail": "readdb.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "student_required",
+        "kind": 2,
+        "importPath": "readdb.decorators",
+        "description": "readdb.decorators",
+        "peekOfCode": "def student_required(view_func):\n    @wraps(view_func)\n    def _wrapped_view(request, *args, **kwargs):\n        # Check if the user is authenticated\n        if request.user.is_authenticated:\n            # Check if the user has the required user type\n            if hasattr(request.user, 'user_type') and request.user.user_type == 'student':\n                # Proceed with the view function if the conditions are met\n                return view_func(request, *args, **kwargs)\n            else:",
+        "detail": "readdb.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "UserLoginForm",
+        "kind": 6,
+        "importPath": "readdb.forms",
+        "description": "readdb.forms",
+        "peekOfCode": "class UserLoginForm(AuthenticationForm):\n    username = forms.CharField(label='Username')\n    password = forms.CharField(label='Password', widget=forms.PasswordInput)\nclass UserRegistrationForm(UserCreationForm):\n    class Meta:\n        model = User\n        fields = ['username', 'password']",
+        "detail": "readdb.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UserRegistrationForm",
+        "kind": 6,
+        "importPath": "readdb.forms",
+        "description": "readdb.forms",
+        "peekOfCode": "class UserRegistrationForm(UserCreationForm):\n    class Meta:\n        model = User\n        fields = ['username', 'password']",
+        "detail": "readdb.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Department",
+        "kind": 6,
+        "importPath": "readdb.models",
+        "description": "readdb.models",
+        "peekOfCode": "class Department(models.Model):\n    name = models.CharField(max_length=32, primary_key=True)\n    building = models.CharField(max_length=32, blank=True, null=True)\n    budget = models.IntegerField(blank=True, null=True)\n    def __str__(self):\n        return self.name\nclass Student(models.Model):\n    id = models.CharField(max_length=8, primary_key=True)\n    name = models.CharField(max_length=32)\n    department = models.ForeignKey(Department, on_delete=models.CASCADE)  ",
+        "detail": "readdb.models",
+        "documentation": {}
+    },
+    {
+        "label": "Student",
+        "kind": 6,
+        "importPath": "readdb.models",
+        "description": "readdb.models",
+        "peekOfCode": "class Student(models.Model):\n    id = models.CharField(max_length=8, primary_key=True)\n    name = models.CharField(max_length=32)\n    department = models.ForeignKey(Department, on_delete=models.CASCADE)  \n    total_credits = models.IntegerField()\n    def __str__(self):\n        return f\"{self.id} - {self.name}\"\nclass Course(models.Model):\n    id = models.CharField(primary_key=True, max_length=8)\n    title = models.CharField(max_length=64, null=True)",
+        "detail": "readdb.models",
+        "documentation": {}
+    },
+    {
+        "label": "Course",
+        "kind": 6,
+        "importPath": "readdb.models",
+        "description": "readdb.models",
+        "peekOfCode": "class Course(models.Model):\n    id = models.CharField(primary_key=True, max_length=8)\n    title = models.CharField(max_length=64, null=True)\n    department = models.ForeignKey(Department, on_delete=models.CASCADE, related_name='courses', null=True)\n    credits = models.IntegerField(null=True)\n    def __str__(self):\n        return self.title\nclass Instructor(models.Model):\n    id = models.CharField(primary_key=True, max_length=5)\n    name = models.CharField(max_length=32, null=True)",
+        "detail": "readdb.models",
+        "documentation": {}
+    },
+    {
+        "label": "Instructor",
+        "kind": 6,
+        "importPath": "readdb.models",
+        "description": "readdb.models",
+        "peekOfCode": "class Instructor(models.Model):\n    id = models.CharField(primary_key=True, max_length=5)\n    name = models.CharField(max_length=32, null=True)\n    department = models.ForeignKey(Department, on_delete=models.CASCADE, null=True)\n    salary = models.IntegerField(null=True)\n    def __str__(self):\n        return self.name\nclass Prerequisite(models.Model):\n    course = models.ForeignKey(Course, on_delete=models.CASCADE, related_name='prerequisites')\n    prerequisite_course = models.ForeignKey(Course, on_delete=models.CASCADE, related_name='dependent_courses')",
+        "detail": "readdb.models",
+        "documentation": {}
+    },
+    {
+        "label": "Prerequisite",
+        "kind": 6,
+        "importPath": "readdb.models",
+        "description": "readdb.models",
+        "peekOfCode": "class Prerequisite(models.Model):\n    course = models.ForeignKey(Course, on_delete=models.CASCADE, related_name='prerequisites')\n    prerequisite_course = models.ForeignKey(Course, on_delete=models.CASCADE, related_name='dependent_courses')\n    def __str__(self):\n        return f\"{self.course} -> {self.prerequisite_course}\"\nclass Section(models.Model):\n    course = models.ForeignKey(Course, on_delete=models.CASCADE)\n    section_name = models.CharField(max_length=4)\n    semester = models.IntegerField()\n    year = models.IntegerField()",
+        "detail": "readdb.models",
+        "documentation": {}
+    },
+    {
+        "label": "Section",
+        "kind": 6,
+        "importPath": "readdb.models",
+        "description": "readdb.models",
+        "peekOfCode": "class Section(models.Model):\n    course = models.ForeignKey(Course, on_delete=models.CASCADE)\n    section_name = models.CharField(max_length=4)\n    semester = models.IntegerField()\n    year = models.IntegerField()\n    building = models.CharField(max_length=32, null=True, blank=True)\n    room = models.CharField(max_length=8, null=True, blank=True)\n    capacity = models.IntegerField(null=True, blank=True)\n    class Meta:\n        unique_together = ['course', 'section_name', 'semester', 'year']",
+        "detail": "readdb.models",
+        "documentation": {}
+    },
+    {
+        "label": "Teaches",
+        "kind": 6,
+        "importPath": "readdb.models",
+        "description": "readdb.models",
+        "peekOfCode": "class Teaches(models.Model):\n    section = models.ForeignKey(Section, on_delete=models.CASCADE)\n    instructor = models.ForeignKey(Instructor, on_delete=models.CASCADE)\n    course = models.ForeignKey(Course, on_delete=models.CASCADE, default='XXXXX')\n    semester = models.IntegerField()\n    year = models.IntegerField()\n    class Meta:\n        unique_together = ['course', 'section', 'semester', 'year', 'instructor']\nclass Takes(models.Model):\n    student = models.ForeignKey(Student, on_delete=models.CASCADE, default=99999) ",
+        "detail": "readdb.models",
+        "documentation": {}
+    },
+    {
+        "label": "Takes",
+        "kind": 6,
+        "importPath": "readdb.models",
+        "description": "readdb.models",
+        "peekOfCode": "class Takes(models.Model):\n    student = models.ForeignKey(Student, on_delete=models.CASCADE, default=99999) \n    course = models.ForeignKey(Course, on_delete=models.CASCADE, default='XXXXX') \n    section = models.ForeignKey(Section, on_delete=models.CASCADE, default=1)  \n    semester = models.IntegerField(default=1)  \n    year = models.IntegerField(default=2024)  \n    grade = models.CharField(max_length=2, default='B')\n    class Meta:\n        unique_together = ['student', 'course', 'section', 'semester', 'year']\nclass User(AbstractUser):",
+        "detail": "readdb.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "readdb.models",
+        "description": "readdb.models",
+        "peekOfCode": "class User(AbstractUser):\n    USER_TYPE_CHOICES = [\n        ('admin', 'Admin'),\n        ('professor', 'Professor'),\n        ('student', 'Student'),\n    ]\n    user_type = models.CharField(\n        max_length=25,\n        choices=USER_TYPE_CHOICES,\n        default='student'",
+        "detail": "readdb.models",
+        "documentation": {}
+    },
+    {
+        "label": "Publication",
+        "kind": 6,
+        "importPath": "readdb.models",
+        "description": "readdb.models",
+        "peekOfCode": "class Publication(models.Model):\n    instructor = models.ForeignKey(Instructor, on_delete=models.CASCADE)\n    title = models.CharField(max_length=255)\n    publication_year = models.IntegerField()\n    semester = models.IntegerField()\n    def __str__(self):\n        return self.title\nclass FundingSecured(models.Model):\n    instructor = models.ForeignKey(Instructor, on_delete=models.CASCADE)\n    amount = models.DecimalField(max_digits=10, decimal_places=2)",
+        "detail": "readdb.models",
+        "documentation": {}
+    },
+    {
+        "label": "FundingSecured",
+        "kind": 6,
+        "importPath": "readdb.models",
+        "description": "readdb.models",
+        "peekOfCode": "class FundingSecured(models.Model):\n    instructor = models.ForeignKey(Instructor, on_delete=models.CASCADE)\n    amount = models.DecimalField(max_digits=10, decimal_places=2)\n    academic_year = models.IntegerField()\n    semester = models.IntegerField()\n    def __str__(self):\n        return f\"${self.amount} secured\"",
+        "detail": "readdb.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "readdb.urls",
+        "description": "readdb.urls",
+        "peekOfCode": "urlpatterns = [\n    # data routes\n    path('roster/', views.roster_view, name='roster'),\n    path('salary/', views.salary_view, name='salary'),\n    path('performance/', views.performance_view, name='performance'),\n    path('course_sections/', views.course_sections_view, name='course_sections'),\n    path('enrolled_students/', views.enrolled_students_view, name='enrolled_students'),\n    path('dept_sections/', views.dept_sections_view, name='dept_sections'),\n    path('login/', views.login_view, name='login'),\n    path('logout/', views.logout_view, name='logout'),",
+        "detail": "readdb.urls",
+        "documentation": {}
+    },
+    {
+        "label": "roster_view",
+        "kind": 2,
+        "importPath": "readdb.views",
+        "description": "readdb.views",
+        "peekOfCode": "def roster_view(request):\n    # Get professors from the database\n    professors = Instructor.objects.all()\n    # Sort professors based on selected criteria (assuming 'sort' is passed via GET request)\n    sort_by = request.GET.get('sort')\n    if sort_by == 'name':\n        professors = professors.order_by('name')\n    elif sort_by == 'department':\n        professors = professors.order_by('department')\n    elif sort_by == 'salary':",
+        "detail": "readdb.views",
+        "documentation": {}
+    },
+    {
+        "label": "salary_view",
+        "kind": 2,
+        "importPath": "readdb.views",
+        "description": "readdb.views",
+        "peekOfCode": "def salary_view(request):\n    print(request.user)\n    # Fetching data using Django ORM\n    salary_data = Instructor.objects.values('department').annotate(\n        min_salary=Min('salary'),\n        max_salary=Max('salary'),\n        avg_salary=Avg('salary')\n    )\n    return render(request, 'salary.html', {'salary_data': salary_data})\n# # Define a dictionary to map numerical semester values to semester names",
+        "detail": "readdb.views",
+        "documentation": {}
+    },
+    {
+        "label": "performance_view",
+        "kind": 2,
+        "importPath": "readdb.views",
+        "description": "readdb.views",
+        "peekOfCode": "def performance_view(request):\n    if request.method == 'POST':\n        # Get professor's name, academic year, and semester from the request\n        professor_name = request.POST.get('professor_name')\n        academic_year = request.POST.get('academic_year')\n        semester_number = request.POST.get('semester')\n        # Retrieve the professor object based on the provided name\n        professor = get_object_or_404(Instructor, name=professor_name)\n        # Calculate the number of course sections taught by the professor during the semester\n        course_sections_taught = Section.objects.filter(teaches__instructor=professor, semester=semester_number, year=academic_year).count()",
+        "detail": "readdb.views",
+        "documentation": {}
+    },
+    {
+        "label": "course_sections_view",
+        "kind": 2,
+        "importPath": "readdb.views",
+        "description": "readdb.views",
+        "peekOfCode": "def course_sections_view(request):\n    if request.method == 'POST':\n        # Get professor's name and semester from the request\n        professor_name = request.POST.get('professor_name')\n        semester_number = request.POST.get('semester')\n        # Retrieve the professor object based on the provided name\n        professor = get_object_or_404(Instructor, name=professor_name)\n        # Retrieve course sections taught by the professor in the chosen semester\n        sections_taught = Section.objects.filter(teaches__instructor=professor, semester=semester_number)\n        # Retrieve the number of students enrolled in each section",
+        "detail": "readdb.views",
+        "documentation": {}
+    },
+    {
+        "label": "enrolled_students_view",
+        "kind": 2,
+        "importPath": "readdb.views",
+        "description": "readdb.views",
+        "peekOfCode": "def enrolled_students_view(request):\n    if request.method == 'POST':\n        # Get professor's name and semester from the request\n        professor_name = request.POST.get('professor_name')\n        semester_number = request.POST.get('semester')\n        # Retrieve the professor object based on the provided name\n        professor = get_object_or_404(Instructor, name=professor_name)\n        # Retrieve course sections taught by the professor in the chosen semester\n        sections_taught = Section.objects.filter(teaches__instructor=professor, semester=semester_number)\n        enrolled_students = []",
+        "detail": "readdb.views",
+        "documentation": {}
+    },
+    {
+        "label": "dept_sections_view",
+        "kind": 2,
+        "importPath": "readdb.views",
+        "description": "readdb.views",
+        "peekOfCode": "def dept_sections_view(request):\n    if request.method == 'POST':\n        # Get department name, year, and semester from the request\n        department_name = request.POST.get('department_name')\n        year = request.POST.get('year')\n        semester = request.POST.get('semester')\n        # Query course sections offered by the chosen department in the chosen year and semester\n        course_sections = Section.objects.filter(course__department__name=department_name, year=year, semester=semester)\n        # Construct the context to pass to the template\n        context = {",
+        "detail": "readdb.views",
+        "documentation": {}
+    },
+    {
+        "label": "home_view",
+        "kind": 2,
+        "importPath": "readdb.views",
+        "description": "readdb.views",
+        "peekOfCode": "def home_view(request):\n    if request.user.is_authenticated:\n        print(request.user)\n        user_type = request.user.user_type  \n        print(user_type)\n        if user_type == 'admin':\n            return redirect('roster') \n        elif user_type == 'professor':\n            return redirect('course_sections')  # Replace 'instructor_home' with the URL name of the instructor home page\n        elif user_type == 'student':",
+        "detail": "readdb.views",
+        "documentation": {}
+    },
+    {
+        "label": "login_view",
+        "kind": 2,
+        "importPath": "readdb.views",
+        "description": "readdb.views",
+        "peekOfCode": "def login_view(request):\n    print(\"User : \",request.user)\n    if request.method == 'POST':\n        username = request.POST['username']\n        password = request.POST['password']\n        print(username)\n        print(password)\n        print(\"#####1#####\",request.session.items())\n        user = authenticate(request, username=username, password=password)\n        print(\"#####2#####\",request.session.items())",
+        "detail": "readdb.views",
+        "documentation": {}
+    },
+    {
+        "label": "logout_view",
+        "kind": 2,
+        "importPath": "readdb.views",
+        "description": "readdb.views",
+        "peekOfCode": "def logout_view(request):\n    logout(request)\n    return redirect('login')\n@prevent_logged_in_users\ndef register_view(request):\n    if request.method == 'POST':\n        form = UserRegistrationForm(request.POST)\n        if form.is_valid():\n            form.save()\n            return redirect('login')",
+        "detail": "readdb.views",
+        "documentation": {}
+    },
+    {
+        "label": "register_view",
+        "kind": 2,
+        "importPath": "readdb.views",
+        "description": "readdb.views",
+        "peekOfCode": "def register_view(request):\n    if request.method == 'POST':\n        form = UserRegistrationForm(request.POST)\n        if form.is_valid():\n            form.save()\n            return redirect('login')\n    else:\n        form = UserRegistrationForm()\n    return render(request, 'register.html', {'form': form})\ndef unauthorized_view(request):",
+        "detail": "readdb.views",
+        "documentation": {}
+    },
+    {
+        "label": "unauthorized_view",
+        "kind": 2,
+        "importPath": "readdb.views",
+        "description": "readdb.views",
+        "peekOfCode": "def unauthorized_view(request):\n    return render(request, 'unauthorized.html')",
+        "detail": "readdb.views",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "readdb.views",
+        "description": "readdb.views",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n@admin_required\n# FEATURE ------  F1  -------------------\ndef roster_view(request):\n    # Get professors from the database\n    professors = Instructor.objects.all()\n    # Sort professors based on selected criteria (assuming 'sort' is passed via GET request)\n    sort_by = request.GET.get('sort')\n    if sort_by == 'name':\n        professors = professors.order_by('name')",
+        "detail": "readdb.views",
+        "documentation": {}
+    },
+    {
+        "label": "create_student_users",
+        "kind": 2,
+        "importPath": "scripts.populate_users",
+        "description": "scripts.populate_users",
+        "peekOfCode": "def create_student_users():\n    students = Student.objects.all()\n    for student in students:\n        # Create username using name and ID\n        username = f\"{student.name.lower().replace(' ', '_')}_{student.id}\"\n        # Create user\n        print(username)\n        user = User.objects.create_user(\n            username=username,\n            password='123456',",
+        "detail": "scripts.populate_users",
+        "documentation": {}
+    },
+    {
+        "label": "create_instructor_users",
+        "kind": 2,
+        "importPath": "scripts.populate_users",
+        "description": "scripts.populate_users",
+        "peekOfCode": "def create_instructor_users():\n    instructors = Instructor.objects.all()\n    for instructor in instructors:\n        # Create username using name and ID\n        username = f\"{instructor.name.lower().replace(' ', '_')}_{instructor.id}\"\n        # Create user\n        print(username)\n        user = User.objects.create_user(\n            username=username,\n            password='123456',",
+        "detail": "scripts.populate_users",
+        "documentation": {}
+    },
+    {
+        "label": "create_admin_user",
+        "kind": 2,
+        "importPath": "scripts.populate_users",
+        "description": "scripts.populate_users",
+        "peekOfCode": "def create_admin_user():\n    # Create admin user\n    admin_user = User.objects.create_user(\n        username='admin',\n        password='123456',\n        user_type='admin',\n        first_name='Admin',\n        email=''  # Set email if available\n    )\n    admin_user.save()",
+        "detail": "scripts.populate_users",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "scripts.populate_users",
+        "description": "scripts.populate_users",
+        "peekOfCode": "def main():\n    create_student_users()\n    create_instructor_users()\n    create_admin_user()\nif __name__ == \"__main__\":\n    main()",
+        "detail": "scripts.populate_users",
+        "documentation": {}
+    },
+    {
+        "label": "set_passwords",
+        "kind": 2,
+        "importPath": "scripts.set_password",
+        "description": "scripts.set_password",
+        "peekOfCode": "def set_passwords():\n    # Retrieve all user objects\n    users = User.objects.all()\n    # Set password for each user to '123456'\n    for user in users:\n        user.set_password('123456')\n        user.save()\nif __name__ == \"__main__\":\n    set_passwords()",
+        "detail": "scripts.set_password",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "university_database_backend.asgi",
+        "description": "university_database_backend.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "university_database_backend.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "university_database_backend.settings",
+        "description": "university_database_backend.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-b00ulmpbnji^ehf)eggxxib3($j@q*b375#1eu$q6@*drsm_ge'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# ['*', 'localhost']\n# Application definition",
+        "detail": "university_database_backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "university_database_backend.settings",
+        "description": "university_database_backend.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-b00ulmpbnji^ehf)eggxxib3($j@q*b375#1eu$q6@*drsm_ge'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# ['*', 'localhost']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',",
+        "detail": "university_database_backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "university_database_backend.settings",
+        "description": "university_database_backend.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# ['*', 'localhost']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',",
+        "detail": "university_database_backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "university_database_backend.settings",
+        "description": "university_database_backend.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# ['*', 'localhost']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "university_database_backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "university_database_backend.settings",
+        "description": "university_database_backend.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'readdb.apps.ReaddbConfig',\n]\nMIDDLEWARE = [",
+        "detail": "university_database_backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "university_database_backend.settings",
+        "description": "university_database_backend.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'university_database_backend.urls'",
+        "detail": "university_database_backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "university_database_backend.settings",
+        "description": "university_database_backend.settings",
+        "peekOfCode": "ROOT_URLCONF = 'university_database_backend.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "university_database_backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "university_database_backend.settings",
+        "description": "university_database_backend.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "university_database_backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "university_database_backend.settings",
+        "description": "university_database_backend.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'university_database_backend.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/4.2/ref/settings/#databases\nDATABASES = {\n    'default': \n    {\n        'ENGINE': 'mysql.connector.django',\n        'NAME': 'university_database',\n        'USER': 'root',\n        'PASSWORD': 'Y@namad2001',",
+        "detail": "university_database_backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "university_database_backend.settings",
+        "description": "university_database_backend.settings",
+        "peekOfCode": "DATABASES = {\n    'default': \n    {\n        'ENGINE': 'mysql.connector.django',\n        'NAME': 'university_database',\n        'USER': 'root',\n        'PASSWORD': 'Y@namad2001',\n        'HOST': 'localhost'\n    }\n}",
+        "detail": "university_database_backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "university_database_backend.settings",
+        "description": "university_database_backend.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "university_database_backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_USER_MODEL",
+        "kind": 5,
+        "importPath": "university_database_backend.settings",
+        "description": "university_database_backend.settings",
+        "peekOfCode": "AUTH_USER_MODEL = 'readdb.User'\nAUTHENTICATION_BACKENDS = [\n    'django.contrib.auth.backends.ModelBackend',\n]\n# Internationalization\n# https://docs.djangoproject.com/en/4.2/topics/i18n/\nLANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True",
+        "detail": "university_database_backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTHENTICATION_BACKENDS",
+        "kind": 5,
+        "importPath": "university_database_backend.settings",
+        "description": "university_database_backend.settings",
+        "peekOfCode": "AUTHENTICATION_BACKENDS = [\n    'django.contrib.auth.backends.ModelBackend',\n]\n# Internationalization\n# https://docs.djangoproject.com/en/4.2/topics/i18n/\nLANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)",
+        "detail": "university_database_backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "university_database_backend.settings",
+        "description": "university_database_backend.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'readdb/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "university_database_backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "university_database_backend.settings",
+        "description": "university_database_backend.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'readdb/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "university_database_backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "university_database_backend.settings",
+        "description": "university_database_backend.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'readdb/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "university_database_backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "university_database_backend.settings",
+        "description": "university_database_backend.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'readdb/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "university_database_backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "university_database_backend.settings",
+        "description": "university_database_backend.settings",
+        "peekOfCode": "STATIC_URL = 'readdb/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "university_database_backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "university_database_backend.settings",
+        "description": "university_database_backend.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "university_database_backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "university_database_backend.urls",
+        "description": "university_database_backend.urls",
+        "peekOfCode": "urlpatterns = [\n    path('api/', include('readdb.urls')),\n    path('admin/', admin.site.urls),\n]",
+        "detail": "university_database_backend.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "university_database_backend.wsgi",
+        "description": "university_database_backend.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "university_database_backend.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'university_database_backend.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
