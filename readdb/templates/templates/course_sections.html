@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Course Sections</title>
+    <style>
+        /* Background image and body styles */
+        body {
+            background-image: url("/readdb/static/images/background_img.png");
+            background-size: cover;
+            background-position: center;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Other styles */
+        form {
+            margin-bottom: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        label {
+            display: block;
+            margin-bottom: 10px;
+            font-weight: bold;
+        }
+        input[type="text"], input[type="submit"] {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        input[type="submit"] {
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        input[type="submit"]:hover {
+            background-color: #0056b3;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background */
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    {% include 'navbar.html' %}
+    <h1>Course Sections Taught by {{ professor_name }} in Semester {{ semester }}</h1>
+    
+    <form method="post">
+        {% csrf_token %}
+        <label for="professor_name">Professor's Name:</label>
+        <input type="text" id="professor_name" name="professor_name" required><br>
+        <label for="semester">Semester:</label>
+        <input type="text" id="semester" name="semester" required><br>
+        <button type="submit">Submit</button>
+    </form>
+    
+    <hr>
+    
+    <table>
+        <thead>
+            <tr>
+                <th>Course</th>
+                <th>Section Name</th>
+                <th>Semester</th>
+                <th>Year</th>
+                <th>Number of Students</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for section in sections_with_students %}
+            <tr>
+                <td>{{ section.course }}</td>
+                <td>{{ section.section_name }}</td>
+                <td>{{ section.semester }}</td>
+                <td>{{ section.year }}</td>
+                <td>{{ section.num_students }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>

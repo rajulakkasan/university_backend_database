@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Course Sections</title>
+    <style>
+        body {
+            background-image: url("/readdb/static/images/background_img.png");
+            background-size: cover;
+            background-position: cover;
+            font-family: Arial, sans-serif;
+            background-repeat: no-repeat;
+            height: 100vh; /* Ensure full viewport height */
+            margin: 0; /* Remove default margin */
+            display: flex; /* Use flexbox for centering */
+            justify-content: center; /* Horizontally center */
+            align-items: center; /* Vertically center */
+        }
+        /* Form and container styling */
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        form {
+            margin-bottom: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        label {
+            display: block;
+            margin-bottom: 10px;
+            font-weight: bold;
+        }
+        input[type="text"], input[type="submit"] {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        input[type="submit"] {
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        input[type="submit"]:hover {
+            background-color: #0056b3;
+        }
+
+        /* Table styling */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            background-color: #fff; /* Set background color of the table */
+            border-radius: 5px; /* Add some border-radius for better appearance */
+            overflow: hidden; /* Ensure content doesn't overflow */
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+            background-color: #fff; /* Set background color of table cells */
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    {% include 'navbar.html' %}
+    <div class="container">
+        <h1>Course Sections Offered by {{ department_name }} in {{ year }} and {{ semester }} Semester</h1>
+        <form method="post">
+            {% csrf_token %}
+            <label for="department_name">Department Name:</label>
+            <input type="text" id="department_name" name="department_name" required>
+            <label for="year">Year:</label>
+            <input type="text" id="year" name="year" required>
+            <label for="semester">Semester:</label>
+            <input type="text" id="semester" name="semester" required>
+            <button type="submit">Submit</button>
+        </form>
+        {% if course_sections %}
+            <h2>Course Sections:</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Course</th>
+                        <th>Section Name</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for section in course_sections %}
+                        <tr>
+                            <td>{{ section.course.title }}</td>
+                            <td>{{ section.section_name }}</td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        {% else %}
+            <p>No course sections offered by the selected department in the chosen semester and year.</p>
+        {% endif %}
+    </div>
+</body>
+</html>

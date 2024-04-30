@@ -1,0 +1,75 @@
+<!-- navbar.html -->
+<style>
+    /* CSS for navigation bar */
+    nav {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        z-index: 1000;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        background-color: #333;
+        padding: 10px 20px;
+        color: #ffffff;
+    }
+
+    nav ul {
+        list-style-type: none;
+        padding-right: 40px;
+        margin: 0;
+        display: flex;
+    }
+
+    nav ul li {
+        margin-right: 10px;
+    }
+
+    nav ul li:last-child {
+        margin-right: 0;
+    }
+
+    nav ul li a {
+        color: #fff;
+        text-decoration: none;
+    }
+
+    /* CSS for logo */
+    .navbar-logo img {
+        height: 40px;
+    }
+
+    /* Add padding to body to prevent content from being hidden behind the navigation bar */
+    body {
+        padding-top: 70px;
+    }
+</style>
+
+<nav>
+    <div class="navbar-logo">
+        <img src="/readdb/static/images/logo.png" alt="Logo">
+    </div>
+    <ul>
+        {% comment %} <li><a href="{% url 'home' %}">Home</a></li> {% endcomment %}
+        {% if user.is_authenticated %}
+            {% if user.user_type == 'admin' %}
+                <!-- Admin links -->
+                <li><a href="{% url 'roster' %}">Roster</a></li>
+                <li><a href="{% url 'salary' %}">Salary</a></li>
+                <li><a href="{% url 'performance' %}">Performance</a></li>
+            {% elif user.user_type == 'professor' %}
+                <!-- Professor links -->
+                <li><a href="{% url 'course_sections' %}">Course Sections</a></li>
+                <li><a href="{% url 'enrolled_students' %}">Enrolled Students</a></li>
+            {% else %}
+                <!-- Student links -->
+                <li><a href="{% url 'dept_sections' %}">Department Sections</a></li>
+            {% endif %}
+            <li><a href="{% url 'logout' %}">Logout</a></li>
+        {% else %}
+            <li><a href="{% url 'login' %}">Login</a></li>
+            <li><a href="{% url 'register' %}">Register</a></li>
+        {% endif %}
+    </ul>
+</nav>

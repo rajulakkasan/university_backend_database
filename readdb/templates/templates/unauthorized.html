@@ -1,0 +1,31 @@
+<!-- unauthorized.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unauthorized Access</title>
+    <style>
+        /* Add your funny animation styles here */
+
+        .animation {
+            text-align: center;
+            animation: bounce 1s infinite alternate;
+        }
+
+        @keyframes bounce {
+            0% { transform: translateY(0); }
+            100% { transform: translateY(-10px); }
+        }
+    </style>
+</head>
+<body>
+    <div class="animation">
+        <!-- Add your funny animation content here -->
+        <h1>Oops! You're Not Supposed to Be Here!</h1>
+        <p>Looks like you stumbled upon a restricted area. Don't worry, we'll get you back on track!</p>
+        <img src="/readdb/static/images/unauthorized.gif" alt="Funny Animation">
+        <p><a href="{% url 'login' %}">Click here</a> to go back to the login page.</p>
+    </div>
+</body>
+</html>
