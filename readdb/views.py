@@ -34,6 +34,20 @@ def roster_view(request):
     # Render the template with the sorted professors
     return render(request, 'roster.html', {'professors': professors})
 
+@admin_required
+# FEATURE ------  F2  -------------------
+def salary_view(request):
+    print(request.user)
+    # Fetching data using Django ORM
+    salary_data = Instructor.objects.values('department').annotate(
+        min_salary=Min('salary'),
+        max_salary=Max('salary'),
+        avg_salary=Avg('salary')
+    )
+
+    return render(request, 'salary.html', {'salary_data': salary_data})
+
+
 
 @prevent_logged_in_users
 def register_view(request):
