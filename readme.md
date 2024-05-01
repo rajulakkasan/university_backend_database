@@ -13,6 +13,7 @@ Professor Management: The system allows admins to manage professor information, 
 Student Management: Admins can manage student enrollment, including adding new students, updating student records, and assigning courses to students. The system tracks student academic performance, including grades, GPA, and course history.
 Class Scheduling: Admins can create class schedules for each semester, assign classrooms, and manage class timings. Professors and students can view their class schedules and access relevant course materials.
 Reporting: The system generates reports on various aspects of university operations, including enrollment statistics, course performance, and faculty evaluations. Reports can be exported in different formats for analysis and decision-making.
+
 Technologies Used:
 
 Django: The web application is built using the Django web framework, which provides a robust foundation for building scalable and maintainable web applications.
@@ -20,6 +21,7 @@ HTML/CSS: Frontend user interfaces are designed using HTML for structure and CSS
 Bootstrap: The Bootstrap CSS framework is used for responsive design, layout grids, and styling components to achieve a consistent and modern UI.
 JavaScript: Client-side interactivity and dynamic content loading are implemented using JavaScript to enhance user experience and improve usability.
 SQLite: The SQLite database management system is used for storing and managing relational data, providing efficient data storage and retrieval capabilities.
+
 Installation:
 
 Clone the repository from GitHub: git clone https://github.com/your_username/university-database.git
@@ -32,6 +34,7 @@ Install dependencies: pip install -r requirements.txt
 Run migrations: python manage.py migrate
 Create a superuser: python manage.py createsuperuser
 Start the development server: python manage.py runserver
+
 Usage:
 
 Access the web application by navigating to http://localhost:8000 in your web browser.
